@@ -1,0 +1,2 @@
+
+enum Direction{NONE, LEFT, UPSIDE_DOWN, RIGHT}
